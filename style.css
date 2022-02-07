@@ -1,0 +1,10 @@
+html, body { width: 100%; height: 100% }
+.index, .index li { list-style-type: none; display: inline-block; text-align: center }
+.index li { margin: 0 1rem 1rem 0; height: 20rem }
+.index a { text-decoration: none; font-size: 2rem; color: #222 }
+.index img { width: 20rem; display: block }
+.back { display: inline-block; margin: 1rem 0 2rem 1rem; padding: 0.5rem 1rem; border: 1px solid #CCC; border-radius: 0.5rem; text-decoration: none; color: #222 }
+.recipe { display: flex; flex-direction: row }
+.recipe div { padding: 0 1rem; max-width: 50% }
+.recipe .feature img { display: block; width: 100% }
+.recipe .information h1 { margin: 0 0 2rem 0; padding: 0 }
